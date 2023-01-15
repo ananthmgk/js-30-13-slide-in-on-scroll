@@ -1,0 +1,6 @@
+- window.addEventListener('scroll', functionName); the func will run for each scroll event.
+- window.scrollY. => it tells how much pixels i have scrolled down.
+- window.innerHeight. => windows inner height.
+- sliderImage.height. => the total height of the each image.
+- sliderImage.offsetTop. => is the distance between the top of the real window page and the top edge of the image.
+- function debounce(). => its a framework fucn. which will run the func once in a 20 milli second, when scrolling.
